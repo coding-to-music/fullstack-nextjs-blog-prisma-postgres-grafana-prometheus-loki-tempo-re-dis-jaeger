@@ -1,6 +1,6 @@
  fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger
 
-# 🚀 A full stack blog with a Grafana dashboard 🚀
+# 🚀 A full stack blog with a Grafana dashboard. React postgresql redis nextjs grafana prometheus loki prisma tailwind 🚀
 
 https://github.com/coding-to-music/fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger
 
