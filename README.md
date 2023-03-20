@@ -1,3 +1,29 @@
+ fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger
+
+# 🚀 A full stack blog with a Grafana dashboard 🚀
+
+https://github.com/coding-to-music/fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger
+
+From / By https://github.com/hazyuun/fullstack-blog
+
+## Environment variables:
+
+```java
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger.git
+git push -u origin main
+```
+
 # Full-stack blog
 A full stack blog implementation with a Grafana dashboard.
 

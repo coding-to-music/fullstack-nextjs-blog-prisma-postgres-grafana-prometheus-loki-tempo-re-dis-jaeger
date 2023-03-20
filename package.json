@@ -1,0 +1,13 @@
+{
+  "name": "fullstack-nextjs-blog-prisma-postgres-grafana-prometheus-loki-tempo-redis-jaeger",
+  "version": "1.0.0",
+  "description": "A full stack blog implementation with a Grafana dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m Build && git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
